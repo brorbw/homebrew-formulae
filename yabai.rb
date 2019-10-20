@@ -3,7 +3,7 @@ class Yabai < Formula
   homepage "https://github.com/koekeishiya/yabai"
   url "https://github.com/koekeishiya/yabai/releases/download/v2.0.1/yabai-v2.0.1.tar.gz"
   sha256 "91f87b7ac23a81d57d56ad3500d6778011ba06ee5f76858b7bd8b48bc83dcf30"
-  head "https://github.com/koekeishiya/yabai.git"
+  head "https://github.com/brorbw/yabai.git"
 
   depends_on :macos => :high_sierra
 
